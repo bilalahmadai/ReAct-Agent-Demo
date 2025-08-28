@@ -10,7 +10,7 @@
 
 <p align="center">  
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit" alt="Streamlit"></a>  
-  <a href="./src/certificate.webp">
+  <a href="scr/certificate.webp">
     <img src="https://img.shields.io/badge/Certificate-Hugging%20Face-yellow?logo=huggingface" alt="Certificate"></a>
 </p>
 
